@@ -6,8 +6,7 @@ Decision Tree
 Random Forest
 KNN
 Naive Bayes
-K-means
-Heirarchical 
+K-means & Heirarchical 
 SVM
 Time Series
 Neural Network
