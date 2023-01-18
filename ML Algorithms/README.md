@@ -1,5 +1,6 @@
 ** Algorithm List **
-Linear & Multi-Linear Regression
+
+\Linear & Multi-Linear Regression
 Logistic Regression
 Decision Tree
 Random Forest
