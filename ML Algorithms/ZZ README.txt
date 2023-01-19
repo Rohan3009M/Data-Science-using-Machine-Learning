@@ -8,5 +8,6 @@ KNN
 Naive Bayes
 K-means & Heirarchical 
 SVM
+PCA
 Time Series
 Neural Network
